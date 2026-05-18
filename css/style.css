@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.sec-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+.hero-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+
+.right-header-text ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    flex-wrap: nowrap;
+    gap: 20px;
+ }
+
+
+a {
+   text-decoration: none;
+}
+
+
+.section-1 {
+    
+
+}
+
+.hero-main-text {
+    font-size: 49px;
+    font-weight: 900;
+    align-items: center;
+    /* color: #F9FAF8; */
+}
