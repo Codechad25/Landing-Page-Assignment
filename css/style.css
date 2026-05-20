@@ -1,6 +1,7 @@
 
 body {
     font-family: 'Roboto', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
 }
 
 
@@ -21,6 +22,7 @@ body {
     justify-content: space-around;
     background-color: #1F2937;
     align-items: center;
+
     
 }
 
@@ -218,11 +220,14 @@ p {
 
 button {
     background-color: #3882F6;
-    border-radius: 10px;
+    border-radius: 8px;
     border-color: #F9FAF8;
     border-style: solid;
-    padding: 5px 30px;
+    padding: 5px 20px;
     color: #F9FAF8;
+    font-size: 18px;
+
+    
 
 }
 
