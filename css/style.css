@@ -172,4 +172,55 @@ a {
     font-size: 18px;
     font-weight: 900;
 }
+
+.section-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+}
+
+.modal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    
+    width: 850px;
+    background-color: #3882F6;
+    border-radius: 8px;
+
+    padding: 50px;
+}
+
+.cta-text {
+    color: #E5E7EB;
+}
+
+h2 {
+    margin: 0px;
+}
+
+p {
+    margin: 5px;
+    margin-left: 0px;
+}
+
+.cta-button {
+    align-self: center;
+    
+    
+}
+
+
+button {
+    background-color: #3882F6;
+    border-radius: 10px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    padding: 5px 30px;
+    color: #E5E7EB;
+
+}
     
