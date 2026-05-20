@@ -223,4 +223,13 @@ button {
     color: #E5E7EB;
 
 }
+
+.footer {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    min-height: 100px;
+    text-align: center;
+    align-content: center;
+}
     
