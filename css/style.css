@@ -138,3 +138,38 @@ a {
 .caption {
    text-align: center;
 }
+
+.section-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    min-height: 450px;
+}
+
+.quote-ref {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+   max-width: 800px;
+}
+
+.quote {
+    text-align: justify;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    
+
+}
+
+.ref {
+     align-self: flex-end;
+    font-size: 18px;
+    font-weight: 900;
+}
+    
