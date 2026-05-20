@@ -195,7 +195,7 @@ a {
 }
 
 .cta-text {
-    color: #E5E7EB;
+    color: #F9FAF8;
 }
 
 h2 {
@@ -217,17 +217,17 @@ p {
 button {
     background-color: #3882F6;
     border-radius: 10px;
-    border-color: #E5E7EB;
+    border-color: #F9FAF8;
     border-style: solid;
     padding: 5px 30px;
-    color: #E5E7EB;
+    color: #F9FAF8;
 
 }
 
 .footer {
     background-color: #1F2937;
     font-size: 18px;
-    color: #E5E7EB;
+    color: #F9FAF8;
     min-height: 100px;
     text-align: center;
     align-content: center;
